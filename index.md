@@ -28,7 +28,7 @@ Audio Package - [View The Package On Github](https://github.com/RishonJR/Audio)
 
 **Status for these releases:**
 
-**1.1_beta** - not started yet
+**1.1_beta** - not started yet(this release will be part of 1.0, and 1.1_release will be a seperate release)
 
 **1.0_release**- Finished
 
